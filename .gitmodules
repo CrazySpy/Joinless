@@ -1,0 +1,3 @@
+[submodule "CSVReader"]
+	path = CSVReader
+	url = https://github.com/CrazySpy/CSVReader.git
